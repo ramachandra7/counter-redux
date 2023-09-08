@@ -1,7 +1,7 @@
 # counter-redux
 Counter using redux toolkit
 
-
+deployed link : https://counter-ramachandra-nidamarthi.netlify.app/
 
 # Getting Started with Create React App
 
