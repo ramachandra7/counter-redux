@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className=" justify-center h-20 align-middle grid grid-flow-row p-20">
-      <div className="text-3xl text-center mb-5">{count}</div>
+      <div className="text-3xl text-center mb-5">{'count '+count}</div>
       <div className="flex">
         <button className="p-3 border border-gray-500 rounded-lg mr-10" onClick={handleInc}>
           Increment
